@@ -1,4 +1,4 @@
-# printer
+# printer KSh 120,000 Original price was: KSh 120,000.KSh 85,000
 Kyocera TASKalfa 2553ci  Multifunction Colour Copier
 Functions: Print | Copy | Scan | (Optional Fax)
 Print Speed: 25 pages per minute (Colour/B&W)
